@@ -1,0 +1,513 @@
+order_id,order_date,region,product,quantity,unit_price,customer_email,phone,total_amount
+ORD-00001,2025-04-13,Cebu,Cooking Oil 1L,5,562.36,customer0@outlook.ph,09216066793,2811.8
+ORD-00002,2025-12-15, ncr ,Rice 25kg,16,606.34,customer1@gmail.com,09510751046,9701.44
+ORD-00003,2025-09-28,Iloilo,Cooking Oil 1L,1,1049.29,customer2@gmail.com,09141580226,1049.29
+ORD-00004,2025-04-17,Davao,Sugar 1kg,14,595.07,customer3@outlook.ph,09605399561,8330.98
+ORD-00005,2025-03-13,Iloilo,Instant Coffee,15,684.07,customer4@yahoo.com,09338836384,10261.05
+ORD-00006,2025-07-08,Iloilo,Canned Sardines,9,371.57,customer5@gmail.com,09314289692,3344.13
+ORD-00007,2025-01-21,Cebu,Sugar 1kg,15,572.41,customer6@gmail.com,09976803188,8586.15
+ORD-00008,2025-04-13,Davao,Rice 25kg,17,356.36,customer7@gmail.com,09594246837,6058.12
+ORD-00009,2025-05-02,Iloilo,Rice 25kg,4,128.33,customer8@outlook.ph,09475442872,513.32
+ORD-00010,2025-08-03,NCR,Rice 25kg,12,913.1,customer9@gmail.com,09427696198,10957.2
+ORD-00011,2025-11-27,NCR,Rice 25kg,5,1008.95,customer10@outlook.ph,09981044229,5044.75
+ORD-00012,2025-03-29,Baguio,Rice 25kg,5,936.85,customer11@outlook.ph,09953995721,4684.25
+ORD-00013,2025-04-10,Davao,Cooking Oil 1L,11,705.97,customer12@outlook.ph,09344378798,7765.67
+ORD-00014,2025-12-26,Davao,Sugar 1kg,6,582.08,customer13@gmail.com,09339362341,3492.48
+ORD-00015,2025-06-01,Baguio,Canned Sardines,7,1297.73,customer14@outlook.ph,09125409494,9084.11
+ORD-00016,2025-05-11,Iloilo,Instant Coffee,14,788.24,customer15@yahoo.com,09808705238,11035.36
+ORD-00017,2025-05-30,Davao,Instant Coffee,11,729.19,customer16@gmail.com,09307371533,8021.09
+ORD-00018,2025-11-05,NCR,Sugar 1kg,13,57.95,customer17@gmail.com,09527849588,753.35
+ORD-00019,2025-09-15,NCR,Sugar 1kg,2,525.05,customer18@gmail.com,09452468587,1050.1
+ORD-00020,2025-12-10,Cebu,Instant Coffee,7,582.69,customer19@gmail.com,09399147754,4078.83
+ORD-00021,2025-10-21,Davao,Instant Coffee,4,610.26,customer20@gmail.com,09174539964,2441.04
+ORD-00022,2025-07-11,Iloilo,Cooking Oil 1L,8,878.66,customer21@outlook.ph,09930353157,7029.28
+ORD-00023,2025-10-04,Baguio,Laundry Soap,19,809.73,customer22@outlook.ph,09399708182,15384.87
+ORD-00024,2025-06-10,Baguio,Canned Sardines,13,919.7,customer23@gmail.com,09477040284,11956.1
+ORD-00025,2025-11-10,Iloilo,Rice 25kg,14,1152.03,customer24@outlook.ph,09788785773,16128.42
+ORD-00026,2025-01-22,Cebu,Laundry Soap,10,1223.22,customer25@gmail.com,09646970178,12232.2
+ORD-00027,2025-09-10,Baguio,Sugar 1kg,11,1082.82,customer26@outlook.ph,09529151399,11911.02
+ORD-00028,2025-08-24,Davao,Instant Coffee,2,1434.18,invalid-email,09829627019,2868.36
+ORD-00029,2025-12-11,Cebu,Laundry Soap,9,46.98,customer28@outlook.ph,09675757257,422.82
+ORD-00030,2025-02-18,Davao,Canned Sardines,17,309.75,customer29@outlook.ph,09455569462,5265.75
+ORD-00031,2025-02-28,NCR,Sugar 1kg,3,31.19,customer30@yahoo.com,09129635852,93.57
+ORD-00032,2025-06-19,Cebu,Rice 25kg,6,,customer31@gmail.com,09223847257,5869.56
+ORD-00033,2025-07-07,Baguio,Rice 25kg,5,1349.09,customer32@yahoo.com,09380477683,6745.45
+ORD-00034,2025-09-28,Cebu,Canned Sardines,5,380.35,customer33@outlook.ph,09291735734,1901.75
+ORD-00035,2025-07-09,Cebu,Canned Sardines,15,1392.01,customer34@yahoo.com,09723403479,20880.15
+ORD-00036,2025-06-24,Cebu,Instant Coffee,17,109.2,customer35@gmail.com,09385042337,1856.4
+ORD-00037,2025-02-20,Cebu,Rice 25kg,9,1402.97,customer36@gmail.com,09141078352,12626.73
+ORD-00038,2025-12-30,Davao,Sugar 1kg,3,540.4,invalid-email,09216396351,1621.2
+ORD-00039,2025-02-24,NCR,Laundry Soap,17,170.1,customer38@yahoo.com,09740563507,2891.7
+ORD-00040,2025-09-01,Iloilo,Sugar 1kg,10,739.09,customer39@yahoo.com,09566609283,7390.9
+ORD-00041,2025/11/16,Cebu,Cooking Oil 1L,3,400.03,customer40@yahoo.com,09471178705,1200.09
+ORD-00042,2025-05-11,Baguio,Cooking Oil 1L,18,441.61,customer41@gmail.com,09882269302,7948.98
+ORD-00043,2025-11-03,Cebu,Canned Sardines,18,474.79,customer42@gmail.com,09944420824,8546.22
+ORD-00044,2025-05-15,Baguio,Instant Coffee,17,1208.48,customer43@yahoo.com,09436808455,20544.16
+ORD-00045,2025-01-21,Davao,Cooking Oil 1L,3,817.96,customer44@gmail.com,09568574364,2453.88
+ORD-00046,2025-11-25,Baguio,Rice 25kg,3,480.74,customer45@gmail.com,09750911797,1442.22
+ORD-00047,2025-06-16,Iloilo,Sugar 1kg,6,923.29,customer46@yahoo.com,09649136331,5539.74
+ORD-00048,2025-10-01,NCR,Sugar 1kg,13,,customer47@gmail.com,09224173718,14038.7
+ORD-00049,2025-03-30,Baguio,Canned Sardines,15,423.48,customer48@yahoo.com,09513600440,6352.2
+ORD-00050,2025-11-12,Baguio,Laundry Soap,9,632.05,customer49@yahoo.com,09719106699,5688.45
+ORD-00051,2025/01/14,NCR,Canned Sardines,4,200.39,customer50@outlook.ph,09304095531,801.56
+ORD-00052,2025-08-30,Iloilo,Laundry Soap,14,288.1,customer51@yahoo.com,09373506211,4033.4
+ORD-00053,2025-09-22,Cebu,Canned Sardines,5,1028.05,customer52@gmail.com,09147659674,5140.25
+ORD-00054,2025-12-12,Baguio,Canned Sardines,2,288.53,customer53@outlook.ph,09861052404,577.06
+ORD-00055,2025-02-22,NCR,Canned Sardines,11,797.24,customer54@yahoo.com,09568213197,8769.64
+ORD-00056,2025-12-06,Davao,Laundry Soap,9,1069.39,customer55@outlook.ph,09101815992,9624.51
+ORD-00057,2025-04-02,NCR,Laundry Soap,3,178.18,customer56@gmail.com,09658260221,534.54
+ORD-00058,2025-09-21,Davao,Canned Sardines,9,859.62,customer57@yahoo.com,09965984448,7736.58
+ORD-00059,2025-02-04,Iloilo,Cooking Oil 1L,3,399.71,customer58@gmail.com,09678158427,1199.13
+ORD-00060,2025-07-25,Cebu,Instant Coffee,2,1445.13,customer59@outlook.ph,09837507241,2890.26
+ORD-00061,2025-03-22,NCR,Instant Coffee,12,735.65,customer60@yahoo.com,09872482077,8827.8
+ORD-00062,2025-02-19,Baguio,Instant Coffee,10,1212.87,customer61@outlook.ph,09896662826,12128.7
+ORD-00063,2025-12-26,Iloilo,Laundry Soap,9,834.34,customer62@outlook.ph,09891388192,7509.06
+ORD-00064,2025-01-02,NCR,Laundry Soap,15,84.25,customer63@yahoo.com,09820081872,1263.75
+ORD-00065,2025-02-23,Baguio,Cooking Oil 1L,8,957.06,customer64@outlook.ph,09311564862,7656.48
+ORD-00066,2025-04-16,NCR,Instant Coffee,5,,customer65@gmail.com,09491079829,7140.4
+ORD-00067,2025-09-17,Davao,Instant Coffee,11,,customer66@outlook.ph,09563102056,10014.29
+ORD-00068,2025-11-06,NCR,Canned Sardines,2,,customer67@gmail.com,09175133802,2464.8
+ORD-00069,2025-07-10,NCR,Laundry Soap,15,1328.63,customer68@gmail.com,09813219781,19929.45
+ORD-00070,2025-08-06,NCR,Instant Coffee,6,357.56,customer69@outlook.ph,09454549587,2145.36
+ORD-00071,2025-02-13,Iloilo,Sugar 1kg,8,333.83,customer70@gmail.com,09769108025,2670.64
+ORD-00072,2025-06-11,NCR,Cooking Oil 1L,5,924.25,customer71@yahoo.com,09437064353,4621.25
+ORD-00073,2025-07-21,Baguio,Sugar 1kg,16,628.32,customer72@gmail.com,09812306873,10053.12
+ORD-00074,2025-09-27,Davao,Sugar 1kg,18,1262.99,customer73@gmail.com,09233815413,22733.82
+ORD-00075,2025-12-17,Davao,Cooking Oil 1L,6,1352.03,customer74@gmail.com,09872830248,8112.18
+ORD-00076,2025/10/31,NCR,Sugar 1kg,5,543.06,customer75@yahoo.com,09422468580,2715.3
+ORD-00077,2025-09-28,Iloilo,Instant Coffee,16,370.57,customer76@yahoo.com,09644518647,5929.12
+ORD-00078,2025-08-03,Iloilo,Laundry Soap,13,1175.18,customer77@yahoo.com,09432091877,15277.34
+ORD-00079,2025-09-09,Baguio,Cooking Oil 1L,5,426.71,customer78@outlook.ph,09816070802,2133.55
+ORD-00080,2025-07-09,NCR,Canned Sardines,13,1237.47,customer79@yahoo.com,09538508549,16087.11
+ORD-00081,2025-10-23,Davao,Sugar 1kg,17,647.13,customer80@gmail.com,09450236225,11001.21
+ORD-00082,2025-08-01,Iloilo,Cooking Oil 1L,18,1007.97,customer81@yahoo.com,09532074125,18143.46
+ORD-00083,2025-07-27,NCR,Rice 25kg,8,161.39,customer82@yahoo.com,09848621833,1291.12
+ORD-00084,2025-08-25,Iloilo,Rice 25kg,13,943.31,customer83@gmail.com,09417457352,12263.03
+ORD-00085,2025-12-04,Iloilo,Laundry Soap,19,688.62,customer84@outlook.ph,09695295870,13083.78
+ORD-00086,2025-02-22,Davao,Instant Coffee,3,888.18,customer85@yahoo.com,09236674237,2664.54
+ORD-00087,2025-10-07,Cebu,Laundry Soap,8,268.66,customer86@outlook.ph,09305986733,2149.28
+ORD-00088,2025-08-05,Baguio,Laundry Soap,2,1110.57,customer87@outlook.ph,09551450815,2221.14
+ORD-00089,2025-09-09,Baguio,Laundry Soap,8,1296.94,customer88@outlook.ph,09813962536,10375.52
+ORD-00090,2025-07-07,Davao,Laundry Soap,13,340.77,customer89@gmail.com,09507104143,4430.01
+ORD-00091,2025-02-10,Iloilo,Canned Sardines,13,,customer90@outlook.ph,09827264603,2101.58
+ORD-00092,2025-06-06,NCR,Canned Sardines,1,54.99,customer91@outlook.ph,09903303363,54.99
+ORD-00093,2025-01-15,Iloilo,Cooking Oil 1L,6,970.12,customer92@gmail.com,09286860433,5820.72
+ORD-00094,2025-10-28,Davao,Rice 25kg,19,918.5,customer93@outlook.ph,09760904107,17451.5
+ORD-00095,2025-03-06,Baguio,Laundry Soap,16,829.11,customer94@outlook.ph,09711072118,13265.76
+ORD-00096,2025-12-11,Iloilo,Cooking Oil 1L,8,363.28,customer95@gmail.com,09423142470,2906.24
+ORD-00097,2025-11-23,Baguio,Rice 25kg,1,598.54,customer96@gmail.com,09536019893,598.54
+ORD-00098,2025-01-09,NCR,Sugar 1kg,16,899.82,customer97@yahoo.com,09688343096,14397.12
+ORD-00099,2025/12/10,Baguio,Instant Coffee,9,755.21,customer98@yahoo.com,09995205588,6796.89
+ORD-00100,2025-05-09,Baguio,Canned Sardines,13,1481.92,customer99@yahoo.com,09100435874,19264.96
+ORD-00101,2025-05-16,Cebu,Sugar 1kg,11,221.93,customer100@outlook.ph,09426283245,2441.23
+ORD-00102,2025-03-04,Cebu,Rice 25kg,13,1048.81,customer101@outlook.ph,09408071259,13634.53
+ORD-00103,2025-05-19,Cebu,Sugar 1kg,10,618.39,customer102@outlook.ph,09325681936,6183.9
+ORD-00104,2025-03-22,Baguio,Instant Coffee,4,653.74,customer103@gmail.com,09561588882,2614.96
+ORD-00105,2025-06-12,Davao,Rice 25kg,6,1082.04,customer104@outlook.ph,09943702118,6492.24
+ORD-00106,2025-10-16,Baguio,Sugar 1kg,7,1044.81,customer105@yahoo.com,09722753913,7313.67
+ORD-00107,2025-09-18,Davao,Canned Sardines,5,1487.06,customer106@gmail.com,09751397897,7435.3
+ORD-00108,2025-08-19,Davao,Canned Sardines,11,210.02,customer107@gmail.com,09802984810,2310.22
+ORD-00109,2025-02-10,Cebu,Cooking Oil 1L,13,174.08,customer108@gmail.com,09446012478,2263.04
+ORD-00110,2025-01-28,Iloilo,Sugar 1kg,19,1092.02,customer109@yahoo.com,09599277266,20748.38
+ORD-00111,2025-05-15,NCR,Laundry Soap,10,876.01,customer110@yahoo.com,09574364121,8760.1
+ORD-00112,2025-07-20,Cebu,Sugar 1kg,10,425.76,customer111@yahoo.com,09574765466,4257.6
+ORD-00113,2025-11-24,Cebu,Rice 25kg,11,137.54,customer112@gmail.com,09825449223,1512.94
+ORD-00114,2025-09-25,Iloilo,Rice 25kg,7,146.77,customer113@gmail.com,09329460134,1027.39
+ORD-00115,2025-02-02,NCR,Sugar 1kg,18,1343.4,customer114@outlook.ph,09648868899,24181.2
+ORD-00116,2025-02-17,Baguio,Instant Coffee,4,303.96,customer115@outlook.ph,09608079792,1215.84
+ORD-00117,2025-03-03,Baguio,Canned Sardines,2,498.59,customer116@yahoo.com,09952266893,997.18
+ORD-00118,2025-08-04,Cebu,Rice 25kg,14,355.45,customer117@gmail.com,09954725078,4976.3
+ORD-00119,2025-10-20,NCR,Canned Sardines,13,545.39,customer118@outlook.ph,09890232588,7090.07
+ORD-00120,2025-04-09,Cebu,Rice 25kg,12,,customer119@yahoo.com,09282204745,1473.0
+ORD-00121,2025-06-21,Davao,Cooking Oil 1L,7,788.21,customer120@yahoo.com,09807435606,5517.47
+ORD-00122,2025-12-26,Cebu,Laundry Soap,2,120.07,customer121@outlook.ph,09191048514,240.14
+ORD-00123,2025-08-02,Cebu,Rice 25kg,13,1204.53,customer122@yahoo.com,09404713332,15658.89
+ORD-00124,2025-02-04,Baguio,Canned Sardines,14,365.89,customer123@gmail.com,09653462378,5122.46
+ORD-00125,2025-08-15,Baguio,Cooking Oil 1L,17,819.22,customer124@yahoo.com,09812807629,13926.74
+ORD-00126,2025-04-11,Baguio,Rice 25kg,9,1322.52,customer125@gmail.com,09779615069,11902.68
+ORD-00127,2025-05-11,Davao,Instant Coffee,17,983.3,customer126@gmail.com,09764926227,16716.1
+ORD-00128,2025-09-14,Baguio,Laundry Soap,8,808.78,customer127@outlook.ph,09459905654,6470.24
+ORD-00129,2025-01-05,NCR,Rice 25kg,2,500.01,customer128@outlook.ph,09200273738,1000.02
+ORD-00130,2025-08-06, ncr ,Cooking Oil 1L,13,512.84,customer129@outlook.ph,09978775497,6666.92
+ORD-00131,2025-09-12,NCR,Instant Coffee,3,1010.84,invalid-email,09906528433,3032.52
+ORD-00132,2025-12-25, ncr ,Sugar 1kg,16,1491.33,customer131@outlook.ph,09352188235,23861.28
+ORD-00133,2025-10-10,Baguio,Cooking Oil 1L,6,999.52,customer132@outlook.ph,09822408848,5997.12
+ORD-00134,2025-07-26,Iloilo,Cooking Oil 1L,19,845.52,customer133@yahoo.com,09433310361,16064.88
+ORD-00135,2025-01-15,Iloilo,Instant Coffee,7,1101.36,customer134@outlook.ph,09341206079,7709.52
+ORD-00136,2025-12-12,Iloilo,Cooking Oil 1L,10,708.5,customer135@yahoo.com,09966040317,7085.0
+ORD-00137,2025-02-11,Davao,Instant Coffee,9,109.01,customer136@yahoo.com,09313814138,981.09
+ORD-00138,2025-06-28,Baguio,Rice 25kg,2,852.2,customer137@gmail.com,09258220114,1704.4
+ORD-00139,2025-03-04,Iloilo,Instant Coffee,15,1437.29,customer138@gmail.com,09126226563,21559.35
+ORD-00140,2025/12/18,Davao,Instant Coffee,5,279.45,customer139@outlook.ph,09149621604,1397.25
+ORD-00141,2025-08-19,Cebu,Laundry Soap,4,1041.21,customer140@yahoo.com,09362897676,4164.84
+ORD-00142,2025-08-29,Cebu,Instant Coffee,4,317.38,customer141@gmail.com,09610173760,1269.52
+ORD-00143,2025-02-21,Davao,Instant Coffee,18,,customer142@gmail.com,09756350429,14634.36
+ORD-00144,2025-04-06,Davao,Sugar 1kg,4,163.08,customer143@gmail.com,09925159146,652.32
+ORD-00145,2025-08-10,Baguio,Rice 25kg,17,686.55,customer144@gmail.com,09178198716,11671.35
+ORD-00146,2025-08-19,Baguio,Laundry Soap,12,1139.12,customer145@outlook.ph,09588999385,13669.44
+ORD-00147,2025-08-25,Cebu,Sugar 1kg,17,,customer146@gmail.com,09545002643,9084.97
+ORD-00148,2025-05-23,Iloilo,Canned Sardines,10,1004.07,customer147@outlook.ph,09776205431,10040.7
+ORD-00149,2025-06-20,Cebu,Rice 25kg,1,1197.27,customer148@yahoo.com,09718121922,1197.27
+ORD-00150,2025-01-29,Iloilo,Rice 25kg,18,1392.22,customer149@outlook.ph,09308773243,25059.96
+ORD-00151,2025-02-05,Iloilo,Canned Sardines,18,367.27,customer150@gmail.com,09871318048,6610.86
+ORD-00152,2025-01-13,Baguio,Instant Coffee,14,610.99,customer151@yahoo.com,09847704681,8553.86
+ORD-00153,2025-06-09,NCR,Sugar 1kg,15,245.58,customer152@yahoo.com,09512293741,3683.7
+ORD-00154,2025-11-23,NCR,Cooking Oil 1L,12,1488.88,customer153@outlook.ph,09630833445,17866.56
+ORD-00155,2025-07-06,Davao,Laundry Soap,4,1391.96,customer154@yahoo.com,09529123992,5567.84
+ORD-00156,2025-08-31,Baguio,Cooking Oil 1L,3,819.14,customer155@outlook.ph,09361976301,2457.42
+ORD-00157,2025-03-27,Iloilo,Canned Sardines,12,1266.21,customer156@yahoo.com,09258453521,15194.52
+ORD-00158,2025-10-11,NCR,Rice 25kg,7,791.02,customer157@outlook.ph,09804436922,5537.14
+ORD-00159,2025-03-07,Iloilo,Rice 25kg,11,942.91,customer158@gmail.com,09838328947,10372.01
+ORD-00160,2025-06-19,NCR,Laundry Soap,1,151.9,customer159@outlook.ph,09105953697,151.9
+ORD-00161,2025-02-14,NCR,Rice 25kg,6,1137.8,customer160@outlook.ph,09906341966,6826.8
+ORD-00162,2025-03-03, ncr ,Rice 25kg,15,209.02,customer161@gmail.com,09926830795,3135.3
+ORD-00163,2025-05-14,Baguio,Laundry Soap,15,1242.58,customer162@outlook.ph,09214447237,18638.7
+ORD-00164,2025/10/11,Cebu,Sugar 1kg,19,1177.4,customer163@outlook.ph,09935822550,22370.6
+ORD-00165,2025-01-28,Iloilo,Sugar 1kg,11,1068.94,customer164@yahoo.com,09556497252,11758.34
+ORD-00166,2025-04-18,Baguio,Laundry Soap,2,73.52,customer165@outlook.ph,09334978881,147.04
+ORD-00167,2025-02-13,Baguio,Canned Sardines,14,468.63,customer166@yahoo.com,09288856883,6560.82
+ORD-00168,2025-12-06,Baguio,Rice 25kg,2,409.41,customer167@gmail.com,09963406382,818.82
+ORD-00169,2025-10-13,Baguio,Rice 25kg,4,,customer168@yahoo.com,09847229579,2212.0
+ORD-00170,2025-11-27,Baguio,Canned Sardines,17,149.71,customer169@yahoo.com,09656152900,2545.07
+ORD-00171,2025-05-08,Davao,Sugar 1kg,3,1406.7,customer170@gmail.com,09598806645,4220.1
+ORD-00172,2025-12-14,Iloilo,Instant Coffee,13,839.63,customer171@yahoo.com,09153921577,10915.19
+ORD-00173,2025-08-19,Baguio,Instant Coffee,9,472.18,customer172@gmail.com,09698509918,4249.62
+ORD-00174,2025-07-09,Iloilo,Instant Coffee,7,607.53,customer173@outlook.ph,09367574609,4252.71
+ORD-00175,2025-08-13,Davao,Sugar 1kg,15,681.86,customer174@outlook.ph,09230307805,10227.9
+ORD-00176,2025-10-10,Davao,Sugar 1kg,11,908.88,customer175@yahoo.com,09590122159,9997.68
+ORD-00177,2025-05-01,Iloilo,Canned Sardines,2,783.21,customer176@outlook.ph,09243171768,1566.42
+ORD-00178,2025-04-26,NCR,Rice 25kg,15,1380.7,customer177@gmail.com,09960514523,20710.5
+ORD-00179,2025-08-21,Cebu,Canned Sardines,14,755.51,customer178@outlook.ph,09598906879,10577.14
+ORD-00180,2025-09-16,NCR,Canned Sardines,11,1488.39,customer179@gmail.com,09816806128,16372.29
+ORD-00181,2025-12-25,NCR,Sugar 1kg,3,1280.11,customer180@outlook.ph,09670298515,3840.33
+ORD-00182,2025-07-17,NCR,Instant Coffee,17,328.6,customer181@yahoo.com,09700141462,5586.2
+ORD-00183,2025-05-17,Baguio,Cooking Oil 1L,12,1397.28,customer182@outlook.ph,09739362057,16767.36
+ORD-00184,2025-11-14,Davao,Rice 25kg,15,192.22,customer183@outlook.ph,09440696084,2883.3
+ORD-00185,2025-06-14,NCR,Sugar 1kg,16,1229.83,customer184@outlook.ph,09910943524,19677.28
+ORD-00186,2025-08-13,Davao,Instant Coffee,5,583.32,customer185@gmail.com,09575209597,2916.6
+ORD-00187,2025-11-03,Iloilo,Cooking Oil 1L,6,1319.4,customer186@gmail.com,09757830420,7916.4
+ORD-00188,2025-08-22,Cebu,Cooking Oil 1L,19,1304.72,customer187@yahoo.com,09975106572,24789.68
+ORD-00189,2025-06-21,Iloilo,Sugar 1kg,5,1212.77,customer188@gmail.com,09872314530,6063.85
+ORD-00190,2025-06-01,Iloilo,Laundry Soap,3,,customer189@outlook.ph,09642001424,3567.75
+ORD-00191,2025-11-11,Baguio,Rice 25kg,1,470.93,customer190@outlook.ph,09558209399,470.93
+ORD-00192,2025-06-09,Cebu,Cooking Oil 1L,6,139.76,invalid-email,09991816852,838.56
+ORD-00193,2025-04-06,Iloilo,Sugar 1kg,15,616.41,customer192@outlook.ph,09688273030,9246.15
+ORD-00194,2025-08-21,Iloilo,Sugar 1kg,2,276.82,customer193@yahoo.com,09578796089,553.64
+ORD-00195,2025-06-29,Cebu,Instant Coffee,3,1048.53,customer194@yahoo.com,09270894498,3145.59
+ORD-00196,2025-04-23,Cebu,Laundry Soap,17,532.23,customer195@gmail.com,09898493949,9047.91
+ORD-00197,2025-11-14,Iloilo,Rice 25kg,12,1463.9,customer196@gmail.com,09609677794,17566.8
+ORD-00198,2025-02-21,Cebu,Canned Sardines,18,968.64,customer197@yahoo.com,09583258726,17435.52
+ORD-00199,2025-09-25,Iloilo,Instant Coffee,15,1237.27,customer198@yahoo.com,09378304807,18559.05
+ORD-00200,2025-10-22,Iloilo,Cooking Oil 1L,12,216.14,customer199@gmail.com,09907214179,2593.68
+ORD-00201,2025-04-23,Baguio,Cooking Oil 1L,16,1295.78,customer200@gmail.com,09365471644,20732.48
+ORD-00202,2025-04-11,NCR,Instant Coffee,8,1385.68,customer201@gmail.com,09784683755,11085.44
+ORD-00203,2025-04-23,Iloilo,Sugar 1kg,14,740.85,customer202@outlook.ph,09397760792,10371.9
+ORD-00204,2025-03-22,Davao,Cooking Oil 1L,17,917.25,customer203@gmail.com,09922286180,15593.25
+ORD-00205,2025-07-06,NCR,Laundry Soap,8,1151.92,customer204@gmail.com,09935021998,9215.36
+ORD-00206,2025-04-23,NCR,Rice 25kg,15,278.76,customer205@outlook.ph,09659741412,4181.4
+ORD-00207,2025-01-02,NCR,Laundry Soap,14,763.8,customer206@yahoo.com,09620332086,10693.2
+ORD-00208,2025-05-10,Baguio,Cooking Oil 1L,18,610.02,customer207@gmail.com,09772966010,10980.36
+ORD-00209,2025-08-08,Iloilo,Canned Sardines,7,236.63,customer208@outlook.ph,09356888294,1656.41
+ORD-00210,2025-02-23,Baguio,Rice 25kg,3,563.95,customer209@gmail.com,09394846763,1691.85
+ORD-00211,2025-12-09,Iloilo,Rice 25kg,12,120.9,customer210@gmail.com,09572309605,1450.8
+ORD-00212,2025-08-12,Baguio,Instant Coffee,3,58.2,invalid-email,09183197117,174.6
+ORD-00213,2025-08-13,Baguio,Instant Coffee,14,220.05,customer212@yahoo.com,09866162966,3080.7
+ORD-00214,2025-05-06,Davao,Canned Sardines,15,1445.41,customer213@outlook.ph,09406798268,21681.15
+ORD-00215,2025-05-10,Baguio,Sugar 1kg,14,833.3,customer214@gmail.com,09351785565,11666.2
+ORD-00216,2025-02-22,Cebu,Rice 25kg,7,1449.42,customer215@yahoo.com,09391751878,10145.94
+ORD-00217,2025-06-21,Davao,Canned Sardines,17,660.1,customer216@outlook.ph,09460613550,11221.7
+ORD-00218,2025-08-06,Baguio,Instant Coffee,12,481.49,customer217@outlook.ph,09443285529,5777.88
+ORD-00219,2025-06-09,NCR,Instant Coffee,4,769.09,customer218@yahoo.com,09679984033,3076.36
+ORD-00220,2025-07-17,Cebu,Rice 25kg,9,670.48,customer219@gmail.com,09186519602,6034.32
+ORD-00221,2025-09-04,Cebu,Laundry Soap,6,176.38,customer220@outlook.ph,09248578017,1058.28
+ORD-00222,2025-11-20,Cebu,Cooking Oil 1L,16,968.42,customer221@outlook.ph,09261953189,15494.72
+ORD-00223,2025-07-22,Davao,Instant Coffee,2,339.74,customer222@outlook.ph,09348315126,679.48
+ORD-00224,2025-07-03,Baguio,Sugar 1kg,8,936.99,customer223@gmail.com,09511281012,7495.92
+ORD-00225,2025-05-03,Baguio,Sugar 1kg,11,982.3,customer224@outlook.ph,09845122940,10805.3
+ORD-00226,2025-09-12, ncr ,Instant Coffee,13,245.0,customer225@yahoo.com,09264073400,3185.0
+ORD-00227,2025-10-21,NCR,Laundry Soap,17,110.8,customer226@yahoo.com,09858511779,1883.6
+ORD-00228,2025/10/07,Cebu,Laundry Soap,8,1175.53,customer227@outlook.ph,09329730155,9404.24
+ORD-00229,2025-11-21,NCR,Canned Sardines,18,700.5,customer228@outlook.ph,09168965204,12609.0
+ORD-00230,2025-04-08,Davao,Sugar 1kg,18,106.08,customer229@yahoo.com,09545461013,1909.44
+ORD-00231,2025-07-17,Baguio,Canned Sardines,14,1492.4,customer230@yahoo.com,09537656494,20893.6
+ORD-00232,2025-08-28,Cebu,Sugar 1kg,15,105.52,customer231@outlook.ph,09455281184,1582.8
+ORD-00233,2025-05-24,NCR,Cooking Oil 1L,6,1048.65,customer232@yahoo.com,09682624278,6291.9
+ORD-00234,2025-04-07,Davao,Cooking Oil 1L,11,1475.84,customer233@gmail.com,09600282414,16234.24
+ORD-00235,2025-07-20,Davao,Rice 25kg,13,373.99,customer234@gmail.com,09546434187,4861.87
+ORD-00236,2025-05-04,NCR,Canned Sardines,1,230.53,customer235@gmail.com,09166857303,230.53
+ORD-00237,2025-07-06,Baguio,Instant Coffee,6,199.65,customer236@gmail.com,09322086735,1197.9
+ORD-00238,2025-11-22,NCR,Canned Sardines,9,468.85,customer237@yahoo.com,09994310083,4219.65
+ORD-00239,2025/12/15,Cebu,Instant Coffee,8,169.55,customer238@gmail.com,09551125671,1356.4
+ORD-00240,2025-09-16,NCR,Laundry Soap,11,1044.4,invalid-email,09518197538,11488.4
+ORD-00241,2025-05-28,Davao,Canned Sardines,19,112.19,customer240@outlook.ph,09926561919,2131.61
+ORD-00242,2025-09-09,NCR,Laundry Soap,9,773.94,customer241@gmail.com,09727150493,6965.46
+ORD-00243,2025-12-12,Baguio,Cooking Oil 1L,17,1495.11,customer242@outlook.ph,09846812123,25416.87
+ORD-00244,2025-05-27,Iloilo,Cooking Oil 1L,12,1224.68,customer243@gmail.com,09120972273,14696.16
+ORD-00245,2025-05-28,NCR,Rice 25kg,14,930.52,customer244@gmail.com,09922050912,13027.28
+ORD-00246,2025-12-18,Baguio,Canned Sardines,15,473.26,customer245@gmail.com,09718142807,7098.9
+ORD-00247,2025-07-18,Baguio,Laundry Soap,16,943.37,customer246@outlook.ph,09508431021,15093.92
+ORD-00248,2025-11-04,Davao,Instant Coffee,1,800.02,customer247@outlook.ph,09612153089,800.02
+ORD-00249,2025-05-08,Baguio,Cooking Oil 1L,10,650.6,customer248@gmail.com,09106330865,6506.0
+ORD-00250,2025-02-08,Baguio,Cooking Oil 1L,8,,customer249@gmail.com,09477698143,1707.6
+ORD-00251,2025-12-04,Baguio,Instant Coffee,18,1332.17,customer250@gmail.com,09420632895,23979.06
+ORD-00252,2025-12-26,Baguio,Laundry Soap,1,685.68,customer251@gmail.com,09909037759,685.68
+ORD-00253,2025-05-09,Cebu,Laundry Soap,2,308.04,customer252@yahoo.com,09518744974,616.08
+ORD-00254,2025-09-24,Cebu,Canned Sardines,1,564.28,customer253@gmail.com,09997356828,564.28
+ORD-00255,2025-05-31,Davao,Canned Sardines,1,632.91,customer254@outlook.ph,09549920675,632.91
+ORD-00256,2025-10-25,NCR,Sugar 1kg,9,1244.76,customer255@gmail.com,09677909930,11202.84
+ORD-00257,2025-04-09,Baguio,Sugar 1kg,13,1105.75,customer256@yahoo.com,09902638839,14374.75
+ORD-00258,2025-09-20,NCR,Rice 25kg,1,1158.57,customer257@outlook.ph,09888807316,1158.57
+ORD-00259,2025-09-09,NCR,Cooking Oil 1L,13,36.33,customer258@yahoo.com,09686405096,472.29
+ORD-00260,2025-05-24,Davao,Canned Sardines,7,635.91,customer259@gmail.com,09958851904,4451.37
+ORD-00261,2025-12-12,Baguio,Laundry Soap,2,732.39,customer260@outlook.ph,09747737533,1464.78
+ORD-00262,2025-04-22,Baguio,Instant Coffee,6,48.4,customer261@gmail.com,09336801619,290.4
+ORD-00263,2025-03-01,Iloilo,Laundry Soap,7,404.52,customer262@outlook.ph,09624232414,2831.64
+ORD-00264,2025-01-02,NCR,Cooking Oil 1L,14,1145.23,customer263@outlook.ph,09335602191,16033.22
+ORD-00265,2025-10-31,NCR,Sugar 1kg,18,222.92,customer264@outlook.ph,09393062061,4012.56
+ORD-00266,2025-09-11,Cebu,Laundry Soap,15,812.26,customer265@yahoo.com,09567975319,12183.9
+ORD-00267,2025-05-20,Iloilo,Rice 25kg,2,338.5,customer266@gmail.com,09621454127,677.0
+ORD-00268,2025-02-06,Cebu,Cooking Oil 1L,10,37.94,customer267@yahoo.com,09131165166,379.4
+ORD-00269,2025-06-09,Cebu,Sugar 1kg,12,376.98,customer268@yahoo.com,09517532243,4523.76
+ORD-00270,2025-01-09,Cebu,Instant Coffee,17,1464.29,customer269@gmail.com,09460916347,24892.93
+ORD-00271,2025-08-21,Davao,Sugar 1kg,8,1206.27,customer270@gmail.com,09818197581,9650.16
+ORD-00272,2025-04-09,Davao,Rice 25kg,11,1440.17,customer271@gmail.com,09829223044,15841.87
+ORD-00273,2025/05/27,Cebu,Cooking Oil 1L,3,742.02,customer272@outlook.ph,09956998797,2226.06
+ORD-00274,2025-10-31,Iloilo,Instant Coffee,6,182.41,customer273@yahoo.com,09534131719,1094.46
+ORD-00275,2025-07-27,NCR,Rice 25kg,9,830.98,customer274@yahoo.com,09877583839,7478.82
+ORD-00276,2025/05/11,Iloilo,Sugar 1kg,6,692.48,customer275@yahoo.com,09277215428,4154.88
+ORD-00277,2025-06-01,Baguio,Rice 25kg,9,1269.65,customer276@yahoo.com,09601856351,11426.85
+ORD-00278,2025-02-23,Davao,Cooking Oil 1L,7,165.16,customer277@yahoo.com,09237039296,1156.12
+ORD-00279,2025-04-30,NCR,Canned Sardines,9,742.6,customer278@outlook.ph,09768143326,6683.4
+ORD-00280,2025-06-10,NCR,Rice 25kg,18,242.07,customer279@gmail.com,09673510887,4357.26
+ORD-00281,2025-04-26, ncr ,Rice 25kg,12,500.52,customer280@outlook.ph,09128955006,6006.24
+ORD-00282,2025-03-16,Baguio,Sugar 1kg,8,1111.29,customer281@outlook.ph,09523076025,8890.32
+ORD-00283,2025-04-23,Cebu,Sugar 1kg,8,724.51,customer282@outlook.ph,09735540030,5796.08
+ORD-00284,2025-04-14,Davao,Instant Coffee,18,576.31,customer283@gmail.com,09706011277,10373.58
+ORD-00285,2025-12-06,Davao,Sugar 1kg,15,603.82,customer284@gmail.com,09811890569,9057.3
+ORD-00286,2025-09-11,Iloilo,Laundry Soap,7,699.98,customer285@yahoo.com,09129100607,4899.86
+ORD-00287,2025-08-15,Cebu,Cooking Oil 1L,11,1181.82,customer286@outlook.ph,09190137896,13000.02
+ORD-00288,2025-04-22,Cebu,Cooking Oil 1L,16,1340.29,customer287@yahoo.com,09790147183,21444.64
+ORD-00289,2025-04-09,Cebu,Canned Sardines,4,1433.9,customer288@gmail.com,09560219456,5735.6
+ORD-00290,2025-06-02,Cebu,Canned Sardines,6,,customer289@gmail.com,09245706210,7107.72
+ORD-00291,2025-12-15,Davao,Cooking Oil 1L,3,486.8,customer290@gmail.com,09595744935,1460.4
+ORD-00292,2025-12-04,Davao,Canned Sardines,9,1038.44,invalid-email,09295130056,9345.96
+ORD-00293,2025-07-13,Cebu,Instant Coffee,10,667.65,customer292@outlook.ph,09153992714,6676.5
+ORD-00294,2025/11/06,Iloilo,Sugar 1kg,14,,customer293@yahoo.com,09379340713,5556.74
+ORD-00295,2025-06-12,NCR,Cooking Oil 1L,11,1264.49,customer294@gmail.com,09507059676,13909.39
+ORD-00296,2025-07-27,NCR,Canned Sardines,18,76.87,customer295@yahoo.com,09451492250,1383.66
+ORD-00297,2025-06-18,Iloilo,Cooking Oil 1L,12,1354.61,customer296@gmail.com,09327268503,16255.32
+ORD-00298,2025-06-10,Cebu,Laundry Soap,12,702.99,customer297@yahoo.com,09588229686,8435.88
+ORD-00299,2025-03-09,Davao,Rice 25kg,13,963.06,customer298@yahoo.com,09450948014,12519.78
+ORD-00300,2025-10-16,NCR,Sugar 1kg,13,995.84,customer299@gmail.com,09462388455,12945.92
+ORD-00301,2025-10-04,Baguio,Cooking Oil 1L,19,1344.77,customer300@gmail.com,09917364173,25550.63
+ORD-00302,2025-10-31,Baguio,Rice 25kg,19,962.27,customer301@yahoo.com,09507083673,18283.13
+ORD-00303,2025-05-15,Iloilo,Canned Sardines,14,928.62,customer302@outlook.ph,09398775766,13000.68
+ORD-00304,2025-07-14,Cebu,Rice 25kg,4,118.65,customer303@gmail.com,09907464398,474.6
+ORD-00305,2025-05-08,NCR,Sugar 1kg,13,,customer304@gmail.com,09993271900,10234.12
+ORD-00306,2025-02-02,Cebu,Cooking Oil 1L,8,,customer305@outlook.ph,09552651788,1938.0
+ORD-00307,2025-06-25,NCR,Laundry Soap,19,1111.4,customer306@outlook.ph,09370874491,21116.6
+ORD-00308,2025-01-22,Iloilo,Canned Sardines,12,778.09,customer307@gmail.com,09996478772,9337.08
+ORD-00309,2025-08-26,Iloilo,Cooking Oil 1L,18,1026.74,customer308@gmail.com,09187946147,18481.32
+ORD-00310,2025-06-07,Baguio,Sugar 1kg,6,81.68,customer309@gmail.com,09604988121,490.08
+ORD-00311,2025-02-07,Cebu,Canned Sardines,18,,customer310@gmail.com,09120812641,2618.82
+ORD-00312,2025-08-18,Baguio,Instant Coffee,19,,customer311@yahoo.com,09904258674,20523.04
+ORD-00313,2025-12-31,Cebu,Rice 25kg,5,,customer312@yahoo.com,09679196799,633.4
+ORD-00314,2025-02-20,Baguio,Sugar 1kg,9,125.46,customer313@yahoo.com,09155926488,1129.14
+ORD-00315,2025-09-21, ncr ,Instant Coffee,3,37.92,customer314@gmail.com,09475767056,113.76
+ORD-00316,2025-10-10,Davao,Cooking Oil 1L,10,1435.62,customer315@yahoo.com,09340756713,14356.2
+ORD-00317,2025-01-27,Davao,Laundry Soap,19,1111.51,customer316@gmail.com,09798086909,21118.69
+ORD-00318,2025-08-14, ncr ,Canned Sardines,3,542.81,customer317@gmail.com,09173678414,1628.43
+ORD-00319,2025-10-04,NCR,Rice 25kg,15,458.87,customer318@yahoo.com,09938842599,6883.05
+ORD-00320,2025-10-13,Davao,Canned Sardines,1,537.56,customer319@gmail.com,09799816232,537.56
+ORD-00321,2025-04-07,Iloilo,Cooking Oil 1L,7,1166.49,customer320@yahoo.com,09143226844,8165.43
+ORD-00322,2025-10-11,Iloilo,Canned Sardines,12,998.83,customer321@yahoo.com,09909851739,11985.96
+ORD-00323,2025-11-13,NCR,Rice 25kg,17,,customer322@yahoo.com,09133318206,4999.53
+ORD-00324,2025-10-31,Davao,Cooking Oil 1L,5,277.68,invalid-email,09365518424,1388.4
+ORD-00325,2025-05-27,Davao,Canned Sardines,4,165.63,customer324@yahoo.com,09314061901,662.52
+ORD-00326,2025-01-04,Davao,Laundry Soap,12,997.25,customer325@outlook.ph,09121882877,11967.0
+ORD-00327,2025-02-04,Baguio,Sugar 1kg,18,1151.27,customer326@outlook.ph,09767154083,20722.86
+ORD-00328,2025-07-11,Cebu,Cooking Oil 1L,17,412.27,customer327@outlook.ph,09263619298,7008.59
+ORD-00329,2025-02-18,Baguio,Sugar 1kg,19,51.0,customer328@outlook.ph,09356135680,969.0
+ORD-00330,2025-01-17,Cebu,Cooking Oil 1L,9,141.61,customer329@outlook.ph,09235528741,1274.49
+ORD-00331,2025-06-21,Davao,Laundry Soap,4,1452.43,customer330@yahoo.com,09608482316,5809.72
+ORD-00332,2025/08/08,Davao,Sugar 1kg,2,457.26,customer331@gmail.com,09818825964,914.52
+ORD-00333,2025-06-07,Baguio,Instant Coffee,4,1158.45,customer332@gmail.com,09222824732,4633.8
+ORD-00334,2025-02-15,Baguio,Rice 25kg,2,944.5,customer333@yahoo.com,09705557720,1889.0
+ORD-00335,2025-01-06,Cebu,Instant Coffee,15,585.27,customer334@gmail.com,09334037646,8779.05
+ORD-00336,2025-04-09,Iloilo,Canned Sardines,2,324.42,customer335@gmail.com,09599326438,648.84
+ORD-00337,2025-08-21,Cebu,Laundry Soap,4,199.65,customer336@outlook.ph,09851044796,798.6
+ORD-00338,2025-02-06,Baguio,Instant Coffee,6,930.22,customer337@outlook.ph,09375139575,5581.32
+ORD-00339,2025-10-07,Baguio,Cooking Oil 1L,7,1166.46,customer338@outlook.ph,09923450567,8165.22
+ORD-00340,2025-12-15,NCR,Canned Sardines,10,972.98,customer339@gmail.com,09496098177,9729.8
+ORD-00341,2025-10-29,Baguio,Canned Sardines,19,,customer340@outlook.ph,09280162221,15292.15
+ORD-00342,2025-06-30,NCR,Instant Coffee,19,82.09,customer341@yahoo.com,09750572325,1559.71
+ORD-00343,2025/04/05,Iloilo,Instant Coffee,12,1453.36,customer342@gmail.com,09752027025,17440.32
+ORD-00344,2025-04-09,Cebu,Laundry Soap,3,1202.1,customer343@gmail.com,09903079055,3606.3
+ORD-00345,2025-07-07,Cebu,Rice 25kg,13,453.38,customer344@outlook.ph,09871330207,5893.94
+ORD-00346,2025-04-26,NCR,Instant Coffee,18,1470.36,customer345@yahoo.com,09222978730,26466.48
+ORD-00347,2025-07-10, ncr ,Instant Coffee,8,910.78,customer346@outlook.ph,09935147672,7286.24
+ORD-00348,2025-09-10,Baguio,Sugar 1kg,15,881.99,customer347@outlook.ph,09979717936,13229.85
+ORD-00349,2025-06-10,Davao,Cooking Oil 1L,1,1127.15,customer348@gmail.com,09275842194,1127.15
+ORD-00350,2025-09-13,NCR,Sugar 1kg,3,1221.42,customer349@gmail.com,09433975497,3664.26
+ORD-00351,2025-11-19,Cebu,Sugar 1kg,8,991.59,customer350@outlook.ph,09216070149,7932.72
+ORD-00352,2025-05-08,NCR,Canned Sardines,4,209.58,customer351@gmail.com,09721358005,838.32
+ORD-00353,2025/01/18,NCR,Rice 25kg,16,520.64,customer352@gmail.com,09127571992,8330.24
+ORD-00354,2025-10-08,Davao,Cooking Oil 1L,10,1393.56,customer353@gmail.com,09434961542,13935.6
+ORD-00355,2025-08-11,Baguio,Laundry Soap,12,352.43,customer354@outlook.ph,09718257024,4229.16
+ORD-00356,2025-02-23,NCR,Laundry Soap,14,570.81,customer355@gmail.com,09827296111,7991.34
+ORD-00357,2025-02-27,Cebu,Instant Coffee,14,659.47,customer356@outlook.ph,09502982778,9232.58
+ORD-00358,2025-11-19,Iloilo,Instant Coffee,2,670.32,customer357@gmail.com,09525904456,1340.64
+ORD-00359,2025-12-26,NCR,Laundry Soap,5,927.15,customer358@yahoo.com,09867741192,4635.75
+ORD-00360,2025-06-23,NCR,Instant Coffee,5,1415.75,customer359@gmail.com,09312954978,7078.75
+ORD-00361,2025-10-07,Davao,Rice 25kg,6,376.23,customer360@outlook.ph,09181600593,2257.38
+ORD-00362,2025-04-24,Baguio,Sugar 1kg,13,199.82,customer361@gmail.com,09735760237,2597.66
+ORD-00363,2025-10-15,Iloilo,Instant Coffee,9,312.26,customer362@outlook.ph,09841541582,2810.34
+ORD-00364,2025-12-08,Cebu,Canned Sardines,15,1332.65,customer363@outlook.ph,09991819497,19989.75
+ORD-00365,2025-05-31,Iloilo,Instant Coffee,14,975.8,customer364@gmail.com,09773496394,13661.2
+ORD-00366,2025-05-07,Cebu,Cooking Oil 1L,7,443.14,customer365@outlook.ph,09360757540,3101.98
+ORD-00367,2025-06-04,Baguio,Rice 25kg,2,1227.6,customer366@gmail.com,09209415691,2455.2
+ORD-00368,2025-09-30,Cebu,Cooking Oil 1L,7,1294.83,customer367@yahoo.com,09848605284,9063.81
+ORD-00369,2025-04-14,Davao,Cooking Oil 1L,6,1272.84,customer368@outlook.ph,09929445037,7637.04
+ORD-00370,2025-10-26,Davao,Canned Sardines,17,1380.01,customer369@outlook.ph,09423821937,23460.17
+ORD-00371,2025-09-03,Davao,Rice 25kg,2,393.32,customer370@outlook.ph,09834717549,786.64
+ORD-00372,2025-06-25,Davao,Rice 25kg,3,1137.46,customer371@outlook.ph,09744687060,3412.38
+ORD-00373,2025-02-08,Iloilo,Rice 25kg,5,701.6,customer372@yahoo.com,09964929067,3508.0
+ORD-00374,2025-06-19,Baguio,Rice 25kg,5,1266.16,customer373@yahoo.com,09229981882,6330.8
+ORD-00375,2025-09-04,Cebu,Rice 25kg,1,1098.17,customer374@gmail.com,09954942461,1098.17
+ORD-00376,2025-01-26, ncr ,Canned Sardines,8,1169.14,customer375@outlook.ph,09707665448,9353.12
+ORD-00377,2025-12-21,Davao,Instant Coffee,12,991.12,customer376@outlook.ph,09940348305,11893.44
+ORD-00378,2025-11-02,Davao,Cooking Oil 1L,4,282.59,customer377@yahoo.com,09144097647,1130.36
+ORD-00379,2025-01-13,NCR,Rice 25kg,13,826.64,customer378@gmail.com,09472807202,10746.32
+ORD-00380,2025-11-12,Baguio,Instant Coffee,15,1477.31,customer379@yahoo.com,09672030854,22159.65
+ORD-00381,2025-11-09,Iloilo,Instant Coffee,11,1407.33,customer380@yahoo.com,09559967386,15480.63
+ORD-00382,2025-02-05,Cebu,Cooking Oil 1L,10,83.9,customer381@gmail.com,09810303128,839.0
+ORD-00383,2025-06-22,NCR,Canned Sardines,3,263.93,customer382@outlook.ph,09497897455,791.79
+ORD-00384,2025-01-20,NCR,Laundry Soap,14,214.96,customer383@outlook.ph,09174041730,3009.44
+ORD-00385,2025-11-17, ncr ,Laundry Soap,16,1094.45,customer384@yahoo.com,09643271261,17511.2
+ORD-00386,2025-09-21,Iloilo,Instant Coffee,10,1230.32,customer385@yahoo.com,09795294275,12303.2
+ORD-00387,2025-05-22,NCR,Sugar 1kg,10,336.0,customer386@yahoo.com,09466394187,3360.0
+ORD-00388,2025-05-23,NCR,Sugar 1kg,12,768.66,customer387@gmail.com,09113585139,9223.92
+ORD-00389,2025-04-02,Baguio,Cooking Oil 1L,9,1264.24,customer388@gmail.com,09551034639,11378.16
+ORD-00390,2025-12-20,Iloilo,Laundry Soap,1,1104.55,customer389@yahoo.com,09982971099,1104.55
+ORD-00391,2025-11-18,NCR,Instant Coffee,5,822.51,customer390@outlook.ph,09626350075,4112.55
+ORD-00392,2025-10-15,Iloilo,Canned Sardines,8,893.71,customer391@outlook.ph,09213321496,7149.68
+ORD-00393,2025-08-03,Cebu,Laundry Soap,11,772.37,customer392@gmail.com,09565492204,8496.07
+ORD-00394,2025-12-08,Davao,Instant Coffee,12,460.37,customer393@gmail.com,09488896443,5524.44
+ORD-00395,2025-02-20,NCR,Instant Coffee,1,856.23,customer394@outlook.ph,09782454310,856.23
+ORD-00396,2025-06-02,Baguio,Rice 25kg,11,1039.55,customer395@gmail.com,09989817696,11435.05
+ORD-00397,2025-07-05,Cebu,Canned Sardines,5,1312.52,customer396@outlook.ph,09593641365,6562.6
+ORD-00398,2025-03-04,Iloilo,Rice 25kg,15,961.71,customer397@yahoo.com,09859466878,14425.65
+ORD-00399,2025-07-09,Cebu,Cooking Oil 1L,5,1146.46,customer398@gmail.com,09264272995,5732.3
+ORD-00400,2025-05-05,NCR,Rice 25kg,12,256.91,customer399@yahoo.com,09567600762,3082.92
+ORD-00401,2025-05-30,Iloilo,Rice 25kg,5,703.11,customer400@gmail.com,09289125618,3515.55
+ORD-00402,2025-11-10,Davao,Laundry Soap,17,33.81,customer401@gmail.com,09887906704,574.77
+ORD-00403,2025-02-27,Cebu,Sugar 1kg,17,385.08,customer402@yahoo.com,09660221300,6546.36
+ORD-00404,2025-12-08,NCR,Instant Coffee,12,1095.16,customer403@yahoo.com,09798423334,13141.92
+ORD-00405,2025-11-01,Baguio,Canned Sardines,15,1487.88,customer404@gmail.com,09389998761,22318.2
+ORD-00406,2025-06-29,Iloilo,Rice 25kg,15,166.78,customer405@yahoo.com,09761330848,2501.7
+ORD-00407,2025-06-19,Cebu,Canned Sardines,6,614.21,customer406@outlook.ph,09967797300,3685.26
+ORD-00408,2025-11-22,Cebu,Sugar 1kg,12,1204.11,customer407@outlook.ph,09677858758,14449.32
+ORD-00409,2025-09-28,Davao,Sugar 1kg,18,321.97,customer408@yahoo.com,09931764920,5795.46
+ORD-00410,2025-02-23,Davao,Rice 25kg,14,841.53,customer409@outlook.ph,09619151495,11781.42
+ORD-00411,2025/04/11,Baguio,Cooking Oil 1L,2,1104.95,customer410@outlook.ph,09599154414,2209.9
+ORD-00412,2025-09-21,Baguio,Rice 25kg,9,931.66,customer411@outlook.ph,09567694547,8384.94
+ORD-00413,2025-02-22,NCR,Laundry Soap,5,298.28,customer412@gmail.com,09986625773,1491.4
+ORD-00414,2025-03-01,NCR,Instant Coffee,1,545.97,customer413@outlook.ph,09884933416,545.97
+ORD-00415,2025-04-18,Baguio,Cooking Oil 1L,3,1180.01,customer414@outlook.ph,09736164778,3540.03
+ORD-00416,2025-01-05,Baguio,Rice 25kg,6,840.26,customer415@yahoo.com,09388187517,5041.56
+ORD-00417,2025-04-13, ncr ,Canned Sardines,5,27.74,customer416@outlook.ph,09446071904,138.7
+ORD-00418,2025-07-15,Davao,Cooking Oil 1L,5,1146.27,customer417@gmail.com,09363598427,5731.35
+ORD-00419,2025-09-19,NCR,Cooking Oil 1L,1,72.26,customer418@gmail.com,09991990632,72.26
+ORD-00420,2025-12-31,Davao,Rice 25kg,17,1123.69,customer419@yahoo.com,09193053577,19102.73
+ORD-00421,2025-12-16,Davao,Cooking Oil 1L,19,319.67,invalid-email,09399496923,6073.73
+ORD-00422,2025-02-16,Baguio,Canned Sardines,14,1437.95,customer421@gmail.com,09584044963,20131.3
+ORD-00423,2025-12-21,Iloilo,Sugar 1kg,12,564.55,customer422@outlook.ph,09361846370,6774.6
+ORD-00424,2025-11-07,Cebu,Cooking Oil 1L,10,503.86,customer423@outlook.ph,09905817775,5038.6
+ORD-00425,2025-11-04,Iloilo,Sugar 1kg,18,240.35,customer424@gmail.com,09598976917,4326.3
+ORD-00426,2025-05-24,Iloilo,Canned Sardines,11,472.29,customer425@yahoo.com,09711871397,5195.19
+ORD-00427,2025-09-26,Davao,Rice 25kg,2,1317.44,customer426@yahoo.com,09755338677,2634.88
+ORD-00428,2025-05-04,Iloilo,Instant Coffee,18,1494.57,customer427@outlook.ph,09817461907,26902.26
+ORD-00429,2025-04-16,NCR,Cooking Oil 1L,7,565.1,customer428@gmail.com,09506936666,3955.7
+ORD-00430,2025-06-07,Davao,Instant Coffee,15,683.94,customer429@outlook.ph,09461203124,10259.1
+ORD-00431,2025-05-27,NCR,Canned Sardines,11,1088.66,customer430@yahoo.com,09130816384,11975.26
+ORD-00432,2025-05-25,Cebu,Cooking Oil 1L,18,1331.57,customer431@gmail.com,09630757561,23968.26
+ORD-00433,2025-04-30,Davao,Sugar 1kg,12,897.71,customer432@outlook.ph,09448981305,10772.52
+ORD-00434,2025-11-15,Cebu,Laundry Soap,6,599.46,customer433@outlook.ph,09295249057,3596.76
+ORD-00435,2025-10-02,Davao,Instant Coffee,13,,customer434@yahoo.com,09623502759,8198.84
+ORD-00436,2025-04-02, ncr ,Cooking Oil 1L,16,1049.51,customer435@outlook.ph,09327761953,16792.16
+ORD-00437,2025-02-27,Iloilo,Instant Coffee,18,24.76,customer436@yahoo.com,09480990401,445.68
+ORD-00438,2025-12-12,Baguio,Cooking Oil 1L,10,936.99,customer437@yahoo.com,09956665975,9369.9
+ORD-00439,2025-08-17,Cebu,Rice 25kg,8,546.13,customer438@gmail.com,09377403790,4369.04
+ORD-00440,2025-04-27,Iloilo,Sugar 1kg,18,1195.41,customer439@gmail.com,09465436049,21517.38
+ORD-00441,2025-11-14, ncr ,Instant Coffee,1,157.63,customer440@outlook.ph,09400281010,157.63
+ORD-00442,2025-10-06,Iloilo,Laundry Soap,8,890.54,customer441@yahoo.com,09740116562,7124.32
+ORD-00443,2025-05-07,NCR,Laundry Soap,6,731.84,customer442@yahoo.com,09852890318,4391.04
+ORD-00444,2025-05-09,Iloilo,Canned Sardines,5,970.64,customer443@gmail.com,09396641124,4853.2
+ORD-00445,2025-02-27,NCR,Cooking Oil 1L,15,115.98,customer444@gmail.com,09696776072,1739.7
+ORD-00446,2025-05-02,Iloilo,Instant Coffee,15,878.38,customer445@yahoo.com,09110899674,13175.7
+ORD-00447,2025-01-01,NCR,Canned Sardines,2,851.0,customer446@gmail.com,09654724287,1702.0
+ORD-00448,2025-08-27,Cebu,Instant Coffee,1,849.78,customer447@outlook.ph,09305145276,849.78
+ORD-00449,2025-10-17,Baguio,Cooking Oil 1L,11,913.16,customer448@yahoo.com,09191926217,10044.76
+ORD-00450,2025-04-06,Davao,Laundry Soap,10,1021.17,customer449@gmail.com,09359154084,10211.7
+ORD-00451,2025-05-06,Iloilo,Rice 25kg,18,1211.38,customer450@outlook.ph,09873174285,21804.84
+ORD-00452,2025/04/28,Baguio,Laundry Soap,18,419.33,customer451@yahoo.com,09536398872,7547.94
+ORD-00453,2025-02-17,Davao,Canned Sardines,17,1241.07,customer452@outlook.ph,09624606470,21098.19
+ORD-00454,2025-03-30,Davao,Sugar 1kg,8,757.42,customer453@outlook.ph,09696115913,6059.36
+ORD-00455,2025-08-25,NCR,Rice 25kg,15,134.05,customer454@yahoo.com,09914073098,2010.75
+ORD-00456,2025-09-29,Cebu,Canned Sardines,8,106.66,customer455@outlook.ph,09358045858,853.28
+ORD-00457,2025/07/08,Cebu,Cooking Oil 1L,17,514.67,customer456@gmail.com,09841536135,8749.39
+ORD-00458,2025-07-11,Baguio,Rice 25kg,12,1181.65,customer457@gmail.com,09611201082,14179.8
+ORD-00459,2025-03-10,Cebu,Canned Sardines,8,1067.37,customer458@gmail.com,09793532952,8538.96
+ORD-00460,2025-10-05,Iloilo,Cooking Oil 1L,14,1187.15,customer459@outlook.ph,09864334960,16620.1
+ORD-00461,2025-12-15,Cebu,Laundry Soap,4,785.56,customer460@gmail.com,09627015393,3142.24
+ORD-00462,2025/09/04,Baguio,Sugar 1kg,1,671.49,customer461@outlook.ph,09581223755,671.49
+ORD-00463,2025-03-17,Cebu,Cooking Oil 1L,1,238.23,customer462@gmail.com,09951405188,238.23
+ORD-00464,2025-06-03,Iloilo,Instant Coffee,19,505.73,customer463@yahoo.com,09118514813,9608.87
+ORD-00465,2025-05-24,NCR,Cooking Oil 1L,16,662.35,customer464@outlook.ph,09199915275,10597.6
+ORD-00466,2025-03-27,Baguio,Cooking Oil 1L,14,151.13,customer465@outlook.ph,09415933049,2115.82
+ORD-00467,2025-07-04,NCR,Sugar 1kg,16,346.51,customer466@gmail.com,09337937327,5544.16
+ORD-00468,2025-10-12,NCR,Instant Coffee,5,905.37,customer467@yahoo.com,09534222401,4526.85
+ORD-00469,2025-08-08,NCR,Canned Sardines,9,1108.78,customer468@gmail.com,09842800803,9979.02
+ORD-00470,2025/03/10,Davao,Canned Sardines,2,1497.55,customer469@gmail.com,09361246928,2995.1
+ORD-00471,2025-02-16,Davao,Cooking Oil 1L,18,1401.01,customer470@yahoo.com,09428786222,25218.18
+ORD-00472,2025-04-04,NCR,Instant Coffee,6,971.0,customer471@yahoo.com,09812921644,5826.0
+ORD-00473,2025-08-26,Baguio,Instant Coffee,9,643.45,customer472@gmail.com,09724440558,5791.05
+ORD-00474,2025-07-23,Iloilo,Sugar 1kg,1,961.54,customer473@yahoo.com,09496232693,961.54
+ORD-00475,2025-08-06, ncr ,Laundry Soap,9,1182.76,customer474@gmail.com,09608159580,10644.84
+ORD-00476,2025-12-07,Cebu,Canned Sardines,16,195.14,customer475@outlook.ph,09694287057,3122.24
+ORD-00477,2025/02/08,Baguio,Sugar 1kg,13,626.66,customer476@gmail.com,09670073085,8146.58
+ORD-00478,2025-04-10,Davao,Rice 25kg,9,1262.91,customer477@outlook.ph,09469106688,11366.19
+ORD-00479,2025-10-16,NCR,Canned Sardines,13,588.07,customer478@gmail.com,09556881239,7644.91
+ORD-00480,2025-09-11,Cebu,Sugar 1kg,9,,customer479@yahoo.com,09900942073,7797.33
+ORD-00481,2025-08-10,Iloilo,Canned Sardines,11,889.9,customer480@outlook.ph,09690975123,9788.9
+ORD-00482,2025-12-23,Davao,Laundry Soap,4,293.02,customer481@yahoo.com,09455184454,1172.08
+ORD-00483,2025-01-23,Davao,Rice 25kg,2,556.11,customer482@outlook.ph,09477753674,1112.22
+ORD-00484,2025-09-07,NCR,Laundry Soap,6,515.08,customer483@outlook.ph,09854684750,3090.48
+ORD-00485,2025-01-10,Iloilo,Rice 25kg,14,58.77,invalid-email,09587205269,822.78
+ORD-00486,2025-09-03,Baguio,Cooking Oil 1L,4,,customer485@gmail.com,09390894296,223.2
+ORD-00487,2025-11-21,Davao,Sugar 1kg,6,1250.91,customer486@gmail.com,09429233929,7505.46
+ORD-00488,2025-04-10,NCR,Rice 25kg,19,424.14,customer487@gmail.com,09369942642,8058.66
+ORD-00489,2025-10-17,Baguio,Laundry Soap,6,786.76,customer488@yahoo.com,09347538338,4720.56
+ORD-00490,2025-06-29,Iloilo,Canned Sardines,2,462.11,customer489@gmail.com,09229553265,924.22
+ORD-00491,2025-08-11,Davao,Rice 25kg,18,1412.21,customer490@gmail.com,09874473159,25419.78
+ORD-00492,2025-09-07,Baguio,Sugar 1kg,13,403.76,customer491@outlook.ph,09306785808,5248.88
+ORD-00493,2025-05-27,Baguio,Rice 25kg,9,,customer492@yahoo.com,09438817025,5903.01
+ORD-00494,2025-04-06,Baguio,Instant Coffee,19,1311.64,customer493@yahoo.com,09228370927,24921.16
+ORD-00495,2025-09-14,Davao,Canned Sardines,13,1266.06,customer494@outlook.ph,09897662466,16458.78
+ORD-00496,2025-11-21,Davao,Sugar 1kg,11,295.43,customer495@outlook.ph,09675379544,3249.73
+ORD-00497,2025-01-04,Cebu,Sugar 1kg,1,1207.91,customer496@gmail.com,09918394863,1207.91
+ORD-00498,2025-01-16,Iloilo,Cooking Oil 1L,7,698.12,customer497@yahoo.com,09841057474,4886.84
+ORD-00499,2025-10-07,NCR,Laundry Soap,15,734.79,customer498@gmail.com,09298803134,11021.85
+ORD-00500,2025-12-02,Baguio,Cooking Oil 1L,1,217.55,customer499@outlook.ph,09305665554,217.55
+ORD-00067,2025-09-17,Davao,Instant Coffee,11,,customer66@outlook.ph,09563102056,10014.29
+ORD-00153,2025-06-09,NCR,Sugar 1kg,15,245.58,customer152@yahoo.com,09512293741,3683.7
+ORD-00124,2025-02-04,Baguio,Canned Sardines,14,365.89,customer123@gmail.com,09653462378,5122.46
+ORD-00286,2025-09-11,Iloilo,Laundry Soap,7,699.98,customer285@yahoo.com,09129100607,4899.86
+ORD-00071,2025-02-13,Iloilo,Sugar 1kg,8,333.83,customer70@gmail.com,09769108025,2670.64
+ORD-00340,2025-12-15,NCR,Canned Sardines,10,972.98,customer339@gmail.com,09496098177,9729.8
+ORD-00081,2025-10-23,Davao,Sugar 1kg,17,647.13,customer80@gmail.com,09450236225,11001.21
+ORD-00449,2025-10-17,Baguio,Cooking Oil 1L,11,913.16,customer448@yahoo.com,09191926217,10044.76
+ORD-00450,2025-04-06,Davao,Laundry Soap,10,1021.17,customer449@gmail.com,09359154084,10211.7
+ORD-00012,2025-03-29,Baguio,Rice 25kg,5,936.85,customer11@outlook.ph,09953995721,4684.25
+ORD-00103,2025-05-19,Cebu,Sugar 1kg,10,618.39,customer102@outlook.ph,09325681936,6183.9
+ORD-00170,2025-11-27,Baguio,Canned Sardines,17,149.71,customer169@yahoo.com,09656152900,2545.07
