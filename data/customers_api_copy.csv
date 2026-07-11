@@ -1,0 +1,61 @@
+customer_id,name,email,city,signup_date,loyalty_points,is_active
+1,Carlo Mendoza,carlo.mendoza1@example.com,Quezon City,2024-08-21,1100,True
+2,Grace Flores,grace.flores2@example.com,Cebu City,2025-03-02,4955,True
+3,Ana Mendoza,ana.mendoza3@example.com,Makati,2025-02-20,3968,True
+4,Liza Santos,liza.santos4@example.com,Taguig,2024-06-11,537,True
+5,Paolo Ramos,paolo.ramos5@example.com,Makati,2025-06-20,4658,False
+6,Ana Garcia,ana.garcia6@example.com,Quezon City,2024-09-12,270,True
+7,Liza Garcia,liza.garcia7@example.com,Cebu City,2025-01-12,3802,True
+8,Jose Santos,jose.santos8@example.com,Makati,2025-01-16,4004,True
+9,Juan Mendoza,juan.mendoza9@example.com,Taguig,2025-07-18,2865,True
+10,Carlo Reyes,carlo.reyes10@example.com,Cebu City,2024-01-29,3166,False
+11,Nina Garcia,nina.garcia11@example.com,Makati,2025-10-24,1844,True
+12,Carlo Ramos,carlo.ramos12@example.com,Taguig,2024-01-21,72,True
+13,Juan Cruz,juan.cruz13@example.com,Taguig,2024-01-09,1833,True
+14,Carlo Torres,carlo.torres14@example.com,Davao City,2025-01-20,2856,True
+15,Ana Mendoza,ana.mendoza15@example.com,Cebu City,2025-11-24,4265,True
+16,Ramon Reyes,ramon.reyes16@example.com,Quezon City,2025-06-07,3065,True
+17,Nina Torres,nina.torres17@example.com,Cebu City,2025-12-01,885,True
+18,Liza Torres,liza.torres18@example.com,Cebu City,2024-10-10,2139,True
+19,Carlo Garcia,carlo.garcia19@example.com,Makati,2025-06-13,1968,True
+20,Nina Ramos,nina.ramos20@example.com,Cebu City,2025-11-28,1146,True
+21,Grace Torres,grace.torres21@example.com,Cebu City,2025-03-04,3314,True
+22,Maria Garcia,maria.garcia22@example.com,Cebu City,2024-08-15,4379,True
+23,Grace Flores,grace.flores23@example.com,Taguig,2024-11-03,1392,True
+24,Paolo Cruz,paolo.cruz24@example.com,Cebu City,2024-04-09,3856,False
+25,Carlo Cruz,carlo.cruz25@example.com,Cebu City,2025-11-01,731,True
+26,Ana Torres,ana.torres26@example.com,Davao City,2024-12-05,3044,True
+27,Carlo Mendoza,carlo.mendoza27@example.com,Quezon City,2025-04-26,439,True
+28,Nina Reyes,nina.reyes28@example.com,Davao City,2024-07-18,4099,False
+29,Ramon Torres,ramon.torres29@example.com,Davao City,2024-02-25,1235,False
+30,Ana Flores,ana.flores30@example.com,Davao City,2025-08-06,3748,False
+31,Juan Reyes,juan.reyes31@example.com,Davao City,2024-12-06,1448,True
+32,Maria Santos,maria.santos32@example.com,Davao City,2024-10-07,1715,True
+33,Juan Cruz,juan.cruz33@example.com,Davao City,2024-03-31,1060,True
+34,Ramon Ramos,ramon.ramos34@example.com,Davao City,2025-05-03,3140,False
+35,Paolo Garcia,paolo.garcia35@example.com,Cebu City,2024-01-15,2639,True
+36,Paolo Garcia,paolo.garcia36@example.com,Quezon City,2025-11-23,33,True
+37,Ana Garcia,ana.garcia37@example.com,Cebu City,2024-11-15,1056,False
+38,Paolo Torres,paolo.torres38@example.com,Makati,2024-03-07,374,True
+39,Carlo Mendoza,carlo.mendoza39@example.com,Taguig,2025-09-02,4293,True
+40,Juan Flores,juan.flores40@example.com,Davao City,2025-01-02,1543,True
+41,Ramon Santos,ramon.santos41@example.com,Makati,2024-08-17,1074,True
+42,Maria Cruz,maria.cruz42@example.com,Quezon City,2025-01-10,306,True
+43,Carlo Santos,carlo.santos43@example.com,Taguig,2024-02-19,885,True
+44,Maria Santos,maria.santos44@example.com,Quezon City,2025-03-02,3639,True
+45,Paolo Torres,paolo.torres45@example.com,Davao City,2024-06-05,1683,True
+46,Maria Torres,maria.torres46@example.com,Davao City,2025-11-08,827,True
+47,Carlo Cruz,carlo.cruz47@example.com,Davao City,2024-04-17,4190,True
+48,Jose Torres,jose.torres48@example.com,Quezon City,2024-04-18,4077,True
+49,Ana Torres,ana.torres49@example.com,Taguig,2024-07-25,2932,True
+50,Carlo Cruz,carlo.cruz50@example.com,Quezon City,2025-07-15,4066,True
+51,Grace Flores,grace.flores51@example.com,Makati,2024-01-03,104,True
+52,Jose Mendoza,jose.mendoza52@example.com,Makati,2024-04-02,4191,False
+53,Jose Torres,jose.torres53@example.com,Makati,2025-04-12,2425,True
+54,Maria Reyes,maria.reyes54@example.com,Makati,2024-02-10,2380,True
+55,Liza Ramos,liza.ramos55@example.com,Quezon City,2024-04-07,375,False
+56,Juan Cruz,juan.cruz56@example.com,Cebu City,2025-01-01,3585,True
+57,Carlo Reyes,carlo.reyes57@example.com,Cebu City,2024-12-16,1498,False
+58,Ramon Mendoza,ramon.mendoza58@example.com,Cebu City,2025-01-29,3917,True
+59,Juan Reyes,juan.reyes59@example.com,Makati,2024-03-01,1305,False
+60,Nina Mendoza,nina.mendoza60@example.com,Taguig,2025-11-25,3589,True
